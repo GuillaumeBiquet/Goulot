@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "940915470452",
+    "firebase_url": "https://goulot-e57cd.firebaseio.com",
+    "project_id": "goulot-e57cd",
+    "storage_bucket": "goulot-e57cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940915470452:android:38c7c6ee12bfa5231ba121",
+        "android_client_info": {
+          "package_name": "com.example.goulot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940915470452-15db9ms09c3c8881jeb4984ucsbur3jo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.goulot",
+            "certificate_hash": "23522fb60717a0840b91f8eef25f529b1146dcf9"
+          }
+        },
+        {
+          "client_id": "940915470452-rh6i8didjo0fvhkb8gsv2qbufh10ctd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Db9GiKmXjYo2xZQ4cY35mX5CDImm50k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940915470452-rh6i8didjo0fvhkb8gsv2qbufh10ctd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Goulot</string>
+    <string name="room_id">ID: %1$d</string>
+    <string name="sip_to_drink">Vous buvez %1$d gorgées !</string>
+    <string name="player_name">%1$s</string>
+    <string name="count">x %1$d</string>
+
+    <string name="homeless_character_description">
+        Le SDF doit boire 2 gorgées de plus à chaque fois qu\'un événement lui dit de boire.
+        De plus, le SDF devra toujours boire le montant dépensé lorsque de l\'argent est utilisé
+        (Si un joueur dépense 5 d\'argent pour faire boire un autre joueur, le SDF devra boire 5 gorgées.).
+    </string>
+    <string name="partier_character_description">
+        Le fêtard doit boire 2 gorgées de plus à chaque fois qu\'un événement lui dit de boire.
+        De plus, le fêtard devra toujours boire le montant dépensé lorsque de l\'argent est utilisé
+        (Si un joueur dépense 5 d\'argent pour faire boire un autre joueur, le fêtard devra boire 5 gorgées.).
+    </string>
+    <string name="trader_character_description">
+        Le trader doit boire 2 gorgées de plus à chaque fois qu\'un événement lui dit de boire.
+        De plus, le trader devra toujours boire le montant dépensé lorsque de l\'argent est utilisé
+        (Si un joueur dépense 5 d\'argent pour faire boire un autre joueur, le trader devra boire 5 gorgées.).
+    </string>
+    <string name="businessman_character_description">
+        Le businessman doit boire 2 gorgées de plus à chaque fois qu\'un événement lui dit de boire.
+        De plus, le businessman devra toujours boire le montant dépensé lorsque de l\'argent est utilisé
+        (Si un joueur dépense 5 d\'argent pour faire boire un autre joueur, le businessman devra boire 5 gorgées.).
+    </string>
+    <string name="button_create_game">Créer une partie</string>
+    <string name="button_join_game">Rejoindre une partie</string>
+    <string name="ok">Ok</string>
+    <string name="background_description">background of the activity</string>
+    <string name="logo_description">logo</string>
+    <string name="submit_button">Valider</string>
+    <string name="play_turn">Jouer</string>
+</resources>

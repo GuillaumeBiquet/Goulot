@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black_overlay">#DB000000</color>
+    <color name="white_overlay">#1FFFF6A5</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#32CD32</color>
+
+    <color name="color_businessman">#ed1b24</color>
+    <color name="color_homeless">#576057</color>
+    <color name="color_trader">#813cc1</color>
+    <color name="color_partier">#3c4df0</color>
+
+    <color name="button_menu">#8c7c6b</color>
+    <color name="button_minus_sip">#ee5253</color>
+    <color name="button_add_sip">#10ac84</color>
+    <color name="button_gameboard">#f28e1c</color>
+
+</resources>
